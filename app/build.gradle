@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "omg1337"
+        applicationId "omg.holy1337"
         minSdkVersion 26
         //noinspection OldTargetApi
         targetSdkVersion 28
